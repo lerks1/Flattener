@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 /**
  * Class to perform the flattening of an arbitrarily nested array of integers (e.g. [1,[2,3],4[5]]).
- * Provides methods to return and/or print flattened array.
+ * Provides public method to print flattened array.
  */
 public class Flattener 
 {
